@@ -27,6 +27,8 @@ Taken from Tilix running on Pop OS.
     - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv)
 
+- [starship](https://github.com/starship/starship)
+
 ## Installing
 
 Install distro dependencies:
